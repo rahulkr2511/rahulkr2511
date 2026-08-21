@@ -2,7 +2,7 @@
 
 Senior Software Engineer (React.js · TypeScript · Spring Boot · PostgreSQL) | Exotel | Bengaluru, India
 
-- 🚀 Led frontend for a high-concurrency Omnichannel (Voice & Chat) SaaS platform — Redux-driven UI scaled to 10k+ concurrent users across enterprise clients like Blue Dart and Tafaseel
+- 🚀 Led frontend for a high-concurrency Omnichannel (Voice & Chat) SaaS platform — Redux-driven UI scaled to 10k+ concurrent users across enterprise clients like zerodha, redcliffe...etc.
 - ⚙️ Build across the stack: Java/Spring Boot microservices, REST + gRPC, Kafka event streaming, WebSockets, and React/Next.js frontends
 - 📉 Drove UI performance work that cut bundle sizes and improved Core Web Vitals; RCA'd 200+ production issues, cutting client escalations.
 - 🤖 Adopted GenAI-assisted engineering (MCP + Cursor) to automate PostgreSQL debugging and code review workflows
