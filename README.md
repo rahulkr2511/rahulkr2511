@@ -14,4 +14,4 @@ Senior Software Engineer (React.js · TypeScript · Spring Boot · PostgreSQL) |
 - **[Product Manager App](PRODUCT-MANAGER-REPO-LINK)** — Product management platform — create, update, and browse products with image uploads, backed by Redis caching and Kafka-driven event messaging (Spring Boot + React)
 - **[ResumeBuilder](https://github.com/rahulkr2511/ResumeBuilder)** — Resume builder web app — pick a template, customize content, export as PDF instantly (React + html2canvas)
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahulkr2511&show_icons=true&theme=default" alt="Rahul's GitHub stats" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,redux,tailwind,java,spring,postgres,redis,kafka,aws,kubernetes,git,ci/cd" alt="Tech stack" />
