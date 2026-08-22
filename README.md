@@ -11,7 +11,7 @@ Senior Software Engineer (React.js · TypeScript · Spring Boot · PostgreSQL) |
 
 #### Featured projects
 - **[PeerNest Mentoring Platform](https://github.com/rahulkr2511/MentoringPlatform)** — Full-stack mentoring platform: Spring Boot (JWT auth, RBAC, JPA/PostgreSQL) backend, WebRTC video conferencing with screen sharing, WebSocket/STOMP signaling and chat, React + TypeScript frontend
-- **[Product Manager App](PRODUCT-MANAGER-REPO-LINK)** — Product management platform — create, update, and browse products with image uploads, backed by Redis caching and Kafka-driven event messaging (Spring Boot + React)
+- **[Product Manager](https://github.com/rahulkr2511/product-manager-app.git)** — Product management platform — create, update, and browse products with image uploads, backed by Redis caching and Kafka-driven event messaging (Spring Boot + React)
 - **[ResumeBuilder](https://github.com/rahulkr2511/ResumeBuilder)** — Resume builder web app — pick a template, customize content, export as PDF instantly (React + html2canvas)
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,redux,tailwind,java,spring,python,postgres,redis,kafka,aws,kubernetes,git" alt="Tech stack" />
